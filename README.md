@@ -28,3 +28,6 @@ Python
 Django Framework
 Anaconda
 TCP/IP
+
+
+no commit, so sad
